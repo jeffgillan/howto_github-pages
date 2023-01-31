@@ -8,6 +8,6 @@ For example, I created a personal resume website from my repo [jeffgillan.github
 
 
 
-To launch the repo as a website, go to 'Settings' and then 'Pages'
+To launch the repo as a website, go to 'Settings' and then 'Pages'. From there, you can launch the repo as a Github pages website. You can also point the website to redirect to a unique domain if you have one. I own the domain www.gillanscience.com. So when I go to 'jeffgillan.github.io, it auotmatically goes to www.gillanscience.com. 
 
 ![](./images/github_settings.png)
