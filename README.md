@@ -14,4 +14,4 @@ To launch the repo as a website, go to 'Settings' and then 'Pages'. From there, 
 
 
 
-Though I can only serve 'one website' for free through Github pages, I can serve many repos by making them a directory within my website (e.g., jeffgillan.github.io/cloud-native-geospatial
+Though I can only serve 'one website' for free through Github pages, I can serve many repos by making them a directory within my website (e.g., jeffgillan.github.io/cloud-native-geospatial)
